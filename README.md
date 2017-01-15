@@ -1,2 +1,3 @@
 # x86-Assembly-Practice
-A collection of small programs written to practice both MASM and NASM x86
+Some small programs I am writing to practice NASM x86 Assembly Language 
+For MASM x86 programs I wrote in my college course, please contact me 

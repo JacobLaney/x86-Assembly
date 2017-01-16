@@ -27,7 +27,6 @@
 
 
 ; ************ MUST LINK stdio.h ************
-global start
 global _main
 
 extern _printf

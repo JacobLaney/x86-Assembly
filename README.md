@@ -2,7 +2,7 @@
 * Some small programs I am writing to practice NASM x86 Assembly Language
 * I recently completed a class in computer organization and MASM x86 Assembly Language. To see the MASM x86 programs that I wrote in my college course, please contact me
 
-## Programs
+# Programs
 1. demo_jpl_strcmp
   * imitates the C string.h library in NASM x86
   * tests the strcmp function in the jpl namespace (Jacob P Laney).

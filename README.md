@@ -4,8 +4,8 @@
 ### Progams
 1. demo_jpl_strcmp - imitates the C string.h library in NASM x86, tests the strcmp function in the jpl namespace (Jacob P Laney).
 2. io
-*Objective: Learn to incorporate C functions
-*Prompts for Name and Age then outputs user's input
-*incorporates system calls and C library functions
-*includes a procedure to trim newline characters from a string buffer
+Objective: Learn to incorporate C functions
+Prompts for Name and Age then outputs user's input
+incorporates system calls and C library functions
+includes a procedure to trim newline characters from a string buffer
 3. writer
